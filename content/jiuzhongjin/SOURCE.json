@@ -1,0 +1,12 @@
+{
+  "workId": "embers-of-the-ninefold-court",
+  "title": "九重燼",
+  "sourceRepository": "malilion/the-Ninth-Prince",
+  "sourcePath": "novel/",
+  "sourceBranch": "main",
+  "sourceCommit": "af9e955e4cf7abb447bc43777d15bb4936442b4c",
+  "destinationPath": "content/jiuzhongjin/",
+  "syncMode": "snapshot-copy",
+  "syncedAt": "2026-09-18",
+  "note": "This directory is a synchronized snapshot for Malilion Novel Library. The source novel remains authoritative until automated sync is implemented."
+}
